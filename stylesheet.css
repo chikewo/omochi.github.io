@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  background-color: #b4c1d1;
+  color: #fff;
+  width: 1300px;
+  height: 90px;
+  float: left;
+  position: fixed;
+  top: 0px;
+  z-index: 10;
+}
+
+.header-left {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-right {
+  float: left;
+  justify-content: space-between;
+}
+
+.header-right a {
+  float: left;
+  padding: 20px;
+  font-size: 10px;
+}
+
+.top-wrapper {
+
+}
+
+.container {
+  background-image: url(https://cdn.pixabay.com/photo/2013/07/13/10/05/kitten-156519_1280.png);
+  background-size: cover;
+  color: #b4c1d1;
+  height: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.container h1 {
+  padding-top: 70px;
+}
+
+.btn {
+    padding: 10px 24px;
+    color: white;
+    display: inline-block;
+}
+
+.instagram {
+  background-color: #702c91;
+  margin-left: 40px;
+}
+
+.fa {
+  margin-right: 10px;
+}
+
+.container h2 {
+  color: #b4c1d1;
+}
